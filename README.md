@@ -1,0 +1,2 @@
+# kodlamaio
+ödev 1
